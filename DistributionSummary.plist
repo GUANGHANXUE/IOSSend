@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCMJ-mobile.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>653323FF2ECAA97EBD985CAD097290CBD129C896</string>
+				<key>dateExpires</key>
+				<string>2021/5/25</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BD9XT96L9F.com.lei.lcmj</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BD9XT96L9F</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>友爱麻将.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>cbc2e6b4-b828-4bb8-be27-cb0630fe68f2</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.lei.lcmj</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BD9XT96L9F</string>
+				<key>name</key>
+				<string>Guanghan Xue</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
